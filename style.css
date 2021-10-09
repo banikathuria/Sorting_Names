@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    padding: 20px;
+     background-color: goldenrod;
+}
+input{
+   margin: 20px;
+}
+#sort_b{
+    display: none;
+}
